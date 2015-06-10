@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "a blog!"
+date:   2015-06-10 12:49:05
+categories: blog meta
+---
+Lately I've been thinking a lot about jotting down all the stuff I learn about,
+books and articles read, challenges tackled, simple tricks learned, etc.
+
+I don't harbor delusions about the usefulness of the whole thing, but maybe
+it'll actually help me in the learning process. After all, having to explain
+something kind of precludes that you must've understood it first and all that.
+
+And besides, whenever's it been a bad idea to share a few thoughts, right?

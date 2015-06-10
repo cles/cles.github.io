@@ -1,0 +1,8 @@
+# Site settings
+title: cles
+url: "http://oriolfranc.es" # the base hostname & protocol for your site
+twitter_username: oriolfa
+github_username:  cles
+
+# Build settings
+markdown: kramdown
